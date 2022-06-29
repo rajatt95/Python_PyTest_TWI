@@ -4,6 +4,7 @@
 # * https://github.com/rajatt95
 # * https://rajatt95.github.io/
 # * https://github.com/stars/rajatt95/lists/udemy-testing-world-infotech
+# * https://github.com/rajatt95/Python_PyTest_TWI
 # *
 # * Course: Step by Step Rest API Testing using Python + Pytest +Allure (https://www.udemy.com/course/api-testing-python/)
 # * Tutor: Testing World Infotech (https://www.udemy.com/user/technology-world/)
