@@ -7,6 +7,7 @@ Python | PyCharm | PyTest | Unit Testing framework | Verbose | Execution - Speci
 # Tutor: <a href="https://www.udemy.com/user/technology-world/"> Testing World Infotech</a>
 ------------------------------------------------------------------------------------------------------------------------
 Learnings from Course : 
+[UDEMY_Testing_Framework_Python_PyTest_TWI.pdf](https://github.com/rajatt95/Python_PyTest_TWI/files/9032937/UDEMY_Testing_Framework_Python_PyTest_TWI.pdf)
 ------------------------------------------------------------------------------------------------------------------------
 
 ![image](https://user-images.githubusercontent.com/26399692/176415148-6e997035-9a10-4f3c-9684-832c84995080.png)
